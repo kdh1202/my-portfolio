@@ -53,7 +53,7 @@ export default function FeaturedProjects() {
             </div>
           </article>
 
-          {/* Carwhy */}
+          {/* EquipGuard */}
           <article
             onClick={() => navigate("/projects/EquipGuard")}
             aria-label="Equip Guard 프로젝트 상세 보기"
