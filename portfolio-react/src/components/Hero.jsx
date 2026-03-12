@@ -8,13 +8,13 @@ export default function Hero() {
   const projects = [
     {
       title: "Royalty-AI",
-      desc: "AI 기반 상표 유사도 분석 및 위험 감지 서비스(진행중)",
+      desc: "AI 기반 상표 유사도 분석 및 위험 감지 서비스(2025.01.08 ~ 2026.02.05 )",
        path: "/projects/royalty",
     },
     {
-      title: "Carwhy",
-      desc: "YOLO 기반 차량 사고 분석 시스템(2026.01.11 ~ 2026.01.31)",
-      path: "/projects/carwhy",
+      title: "Equip Guard",
+      desc: "작업 장비 안전 모니터링 및 관리 시스템(2025.12.23 ~ 2026.01.08)",
+      path: "/projects/EquipGuard",
     },
     {
       title: "MES",
