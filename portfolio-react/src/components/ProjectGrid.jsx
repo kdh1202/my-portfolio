@@ -55,7 +55,7 @@ export default function FeaturedProjects() {
 
           {/* Carwhy */}
           <article
-            onClick={() => navigate("/projects/carwhy")}
+            onClick={() => navigate("/projects/EquipGuard")}
             aria-label="Equip Guard 프로젝트 상세 보기"
             className="group cursor-pointer overflow-hidden rounded-2xl border border-slate-800 bg-slate-900/70 transition hover:-translate-y-1 hover:shadow-xl hover:shadow-sky-500/10"
           >

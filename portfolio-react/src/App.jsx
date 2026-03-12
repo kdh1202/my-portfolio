@@ -7,7 +7,7 @@ import Intro from "./components/Intro"
 import ProjectGrid from "./components/ProjectGrid"
 import ProjectIntro from "./components/ProjectIntro"
 import MesPage from "./components/MesPage"
-import CarwhyPage from "./components/EquipGuard"
+import EquipGuardPage from "./components/EquipGuard"
 import RoyaltyAuthPage from "./components/RoyaltyAuthPage"
 
 // 메인 페이지
@@ -59,7 +59,7 @@ function App() {
 
             {/* 프로젝트 상세 */}
             <Route path="/projects/mes" element={<MesPage />} />
-            <Route path="/projects/carwhy" element={<CarwhyPage />} />
+            <Route path="/projects/EquipGuard" element={<EquipGuardPage />} />
             <Route path="/projects/royalty" element={<RoyaltyAuthPage />} />
           </Routes>
         </main>
